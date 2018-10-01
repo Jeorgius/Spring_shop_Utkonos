@@ -1,0 +1,34 @@
+.header{
+    display:grid;
+    grid-template-columns: 70% 30%;
+}
+
+#bucket{
+    width: 100px;
+    grid-column: 2;
+}
+#bucket #createOrder{
+    width:60px;
+}
+
+.store{
+    display: flex;
+}
+.item{
+    margin: 10px;
+    text-align: center;
+}
+.id, .hidden{
+    display:none;
+}
+
+.order .toBucket {
+    width: 50%;
+}
+
+.order .toBucketQuantity{
+    width: 30px;
+}
+.proceed{
+    width: 400px;
+}

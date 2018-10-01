@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: shop
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Georgy
+Implementation-Vendor-Id: com.jeorgius
+Created-By: IntelliJ IDEA
+Build-Jdk: 10.0.2
+Main-Class: ${start-class}
+
